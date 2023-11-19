@@ -6,15 +6,8 @@ Welcome to my Data Science projects portfolio! This repository showcases various
 
 
 ## Projects
-1. 
 
-    Description: Briefly describe the project and its objectives.
-    Tools/Technologies Used: List the main tools and technologies utilized.
-    Key Achievements:
-        Highlight key insights or outcomes.
-        Mention any machine learning models developed.
-
-2. Dog Breed Classification
+1. Dog Breed Classification
 
     Description: We have developped a Deep Learning model using the pre-trained Keras model in order to classify dog images of differents breeds.
     Tools/Technologies Used: Tensorflow, Python, Pandas, Numpy, Matplotlib,IPython.display, Google Colab (for the gpu).
@@ -35,8 +28,8 @@ Detailed documentation is available within each project folder in the README fil
 
 ## Contact
 
-Feel free to reach out to me for any questions, collaboration, or feedback:
-* Email:  yaporomuald29@gmail.com
-* Linked:  [YAPO Romuald](linkedin.com/in/yapo-romuald-6076a9220/)
+Feel free to reach out to me for any questions, collaboration, or feedback:  
+Email:    yaporomuald29@gmail.com  
+LinkedIn:    [YAPO Romuald](linkedin.com/in/yapo-romuald-6076a9220/)
 
 Thank you for visiting my Data Science portfolio! I hope you find the projects interesting and insightful.
