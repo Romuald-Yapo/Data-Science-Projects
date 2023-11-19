@@ -29,6 +29,7 @@ Detailed documentation is available within each project folder in the README fil
 ## Contact
 
 Feel free to reach out to me for any questions, collaboration, or feedback:  
+
 Email:    yaporomuald29@gmail.com  
 
 LinkedIn:    [YAPO Romuald](linkedin.com/in/yapo-romuald-6076a9220/)
