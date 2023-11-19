@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my Data Science projects portfolio! This repository showcases various projects I have worked on in the field of Data Science. I mainly developped these projects during classes assignments bu also by following a Data Scicence Bootcamp of 40 hours on udemy. Each project is designed to demonstrate my skills in data analysis, Machine Learning, Deep Learning and data visualization. 
+Welcome to my Data Science projects portfolio! This repository showcases various projects I have worked on in the field of Data Science. I mainly developped these projects during classes assignments but also by following a Data Scicence Bootcamp of 40 hours on udemy. Each project is designed to demonstrate my skills in data analysis, Machine Learning, Deep Learning and data visualization. 
 
 
 ## Projects
