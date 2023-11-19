@@ -23,3 +23,21 @@ Welcome to my Data Science projects portfolio! This repository showcases various
       - Create data batches to speed up the training process
       - more than 60% of Accuracy with only 100 epochs by using a pre-trained Keras model
       - Good performance on testing the model of images took on Internet
+
+
+## How to Navigate
+
+Each project is organized in its own directory. 
+The jupyter notebook for each project is contained in separate folders.
+Detailed documentation is available within each project folder in the README file.
+
+
+
+## Contact
+
+Feel free to reach out to me for any questions, collaboration, or feedback:
+
+    Email: yaporomuald29@gmail.com
+    LinkedIn:  	[YAPO Romuald](linkedin.com/in/yapo-romuald-6076a9220/)
+
+Thank you for visiting my Data Science portfolio! I hope you find the projects interesting and insightful.
