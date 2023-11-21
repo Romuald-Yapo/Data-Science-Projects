@@ -9,15 +9,16 @@ Welcome to my Data Science projects portfolio! This repository showcases various
 
 1. Dog Breed Classification
 
-    Description: We have developped a Deep Learning model using the pre-trained Keras model in order to classify dog images of differents breeds.
-    Tools/Technologies Used: Tensorflow, Python, Pandas, Numpy, Matplotlib,IPython.display, Google Colab (for the gpu).
+    Description: We have developped a Deep Learning model using the pre-trained Keras model in order to classify dog images of differents breeds.  
+    Tools/Technologies Used: Tensorflow, Python, Pandas, Numpy, Matplotlib,IPython.display, Google Colab (for the gpu).  
     Key Achievements:
       - Resize and turn images into tensors
       - Create data batches to speed up the training process
       - more than 60% of Accuracy with only 100 epochs by using a pre-trained Keras model
       - Good performance on testing the model of images took on Internet
+   
   
-2. Bulldozers Prices Predictions  
+3. Bulldozers Prices Predictions  
 
     Description: I have developped a regression Machine Learning model during an Udemy Bootcamp in Data Science that I followed. By fine tuning a Random Forest Regressor, I've reached some good scores on different metrics (MLSE, RMSE, R^2)
     Tools/Technologies Used: Python, Scikit-learn, Pandas, Numpy, Matplotlib, Jupyter Notebook.  
