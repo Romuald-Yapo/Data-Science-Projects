@@ -16,6 +16,16 @@ Welcome to my Data Science projects portfolio! This repository showcases various
       - Create data batches to speed up the training process
       - more than 60% of Accuracy with only 100 epochs by using a pre-trained Keras model
       - Good performance on testing the model of images took on Internet
+  
+2. Bulldozers Prices Predictions
+    Description: I have developped a regression Machine Learning model during an Udemy Bootcamp in Data Science that I followed. By fine tuning a Random Forest Regressor, I've reached some good scores on different metrics (MLSE, RMSE, R^2)
+    Tools/Technologies Used: Python, Scikit-learn, Pandas, Numpy, Matplotlib, Jupyter Notebook.
+    Key Achievements:
+      - Dealing with Time Series Data and missing values (Categorical and numerical)
+      - Tuning Hyper parameters of a Random Forest Regressor
+      - Using differents metrics to evaluate the model (MLSE, RMSE, R^2)
+      - Good performance on test data
+  
 
 
 ## How to Navigate
