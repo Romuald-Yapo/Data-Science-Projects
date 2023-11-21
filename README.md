@@ -20,7 +20,7 @@ Welcome to my Data Science projects portfolio! This repository showcases various
   
 3. Bulldozers Prices Predictions  
 
-    Description: I have developped a regression Machine Learning model during an Udemy Bootcamp in Data Science that I followed. By fine tuning a Random Forest Regressor, I've reached some good scores on different metrics (MLSE, RMSE, R^2)
+    Description: I have developped a regression Machine Learning model during an Udemy Bootcamp in Data Science that I followed. By fine tuning a Random Forest Regressor, I've reached some good scores on different metrics (MLSE, RMSE, R^2)  
     Tools/Technologies Used: Python, Scikit-learn, Pandas, Numpy, Matplotlib, Jupyter Notebook.  
     Key Achievements:  
       - Dealing with Time Series Data and missing values (Categorical and numerical)
