@@ -16,18 +16,17 @@ Welcome to my Data Science projects portfolio! This repository showcases various
       - more than 60% of Accuracy with only 100 epochs by using a pre-trained Keras model
       - Good performance on testing the model of images took on Internet
    
-2. Classification of solutions of a Capacitated Vehicle Routing Problem (Well known problem in Operation Research
+2. Classification of solutions of a Capacitated Vehicle Routing Problem (Well known problem in Operation Research)  
    Description: We have developped during an academic project several ML methods in order to classify several solutions and detect which features have a higher impact on the solution.  
     Tools/Technologies Used: Python, Pandas, Numpy, Matplotlib, Scikit-Learn, Linear regression, KNN, Random Forests Classifier and regressor, Boosting.  
     Key Achievements:
       - Data Manipulation and Understanding of millions of solutions
-      - Feature engineering in order to reduce the size of the dataset
+      - Features engineering in order to reduce the size of the dataset
       - Application of severals classification and regression methods
       - Transform a problem of regression in a problem of classification by using some tresholds
       - Obtention of some features importance
       - more than 90% of Accuracy using Random forest 
    
-  
 3. Bulldozers Prices Predictions  
 
     Description: I have developped a regression Machine Learning model during an Udemy Bootcamp in Data Science that I followed. By fine tuning a Random Forest Regressor, I've reached some good scores on different metrics (MLSE, RMSE, R^2)  
