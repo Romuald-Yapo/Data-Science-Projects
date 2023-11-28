@@ -21,7 +21,6 @@ Welcome to my Data Science projects portfolio! This repository showcases various
 3. Classification of solutions of a Capacitated Vehicle Routing Problem (Well known problem in Operation Research)  
    
    Description: We have developped during an academic project several ML methods in order to classify several solutions and detect which features have a higher impact on the solution.  
-   
    Tools/Technologies Used: Python, Pandas, Numpy, Matplotlib, Scikit-Learn, Linear regression, KNN, Random Forests Classifier and regressor, Boosting.  
    
    Key Achievements:
@@ -32,10 +31,11 @@ Welcome to my Data Science projects portfolio! This repository showcases various
       - Obtention of some features importance
       - more than 90% of Accuracy using Random forest 
    
-4. Bulldozers Prices Predictions  
+3. Bulldozers Prices Predictions  
 
-    Description: I have developped a regression Machine Learning model during an Udemy Bootcamp in Data Science that I followed. By fine tuning a Random Forest Regressor, I've reached some good scores on different metrics (MLSE, RMSE, R^2)  
+    Description: I have developped a regression Machine Learning model during an Udemy Bootcamp in Data Science that I followed. By fine tuning a Random Forest Regressor, I've reached some good scores on different metrics (MLSE, RMSE, R^2)   
     Tools/Technologies Used: Python, Scikit-learn, Pandas, Numpy, Matplotlib, Jupyter Notebook.  
+   
     Key Achievements:  
       - Dealing with Time Series Data and missing values (Categorical and numerical)
       - Tuning Hyper parameters of a Random Forest Regressor
