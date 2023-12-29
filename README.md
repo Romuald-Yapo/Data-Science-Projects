@@ -41,6 +41,16 @@ Welcome to my Data Science projects portfolio! This repository showcases various
       - Tuning Hyper parameters of a Random Forest Regressor
       - Using differents metrics to evaluate the model (MLSE, RMSE, R^2)
       - Good performance on test data
+
+4- Class Activation Map for explainability and understanding of CNN and object detection models  
+
+ Description: I have developped a regression Machine Learning model during an Udemy Bootcamp in Data Science that I followed. By fine tuning a Random Forest Regressor, I've reached some good scores on different metrics (MLSE, RMSE, R^2)   
+    Tools/Technologies Used: Python, Scikit-learn, Pytorch, Jupyter Notebook.  
+   
+    Key Achievements:  
+      - Understanding of CNN and the application of the Class Activation Map
+      - Manipulation of recents CNN such that ConvNext Resnet50 and also object detection models (Faster R-CNN)
+      - Evaluation of the performances of different models
   
 
 
