@@ -48,10 +48,10 @@ Welcome to my Data Science projects portfolio! This repository showcases various
  Tools/Technologies Used: Python, Pytorch, Jupyter Notebook, Bibliograpgical Research.  
    
  Key Achievements:
-      - Understanding of CNN and the application of the Class Activation Map
-      - Manipulation of recents CNN such that ConvNext Resnet50 and also object detection models (Faster R-CNN)
-      - Improvement of explainability of CNN and object detection models
-      - Evaluation of the model's perfomances (Classification, and Class Activation Map Quality)  
+      * Understanding of CNN and the application of the Class Activation Map
+      * Manipulation of recents CNN such that ConvNext Resnet50 and also object detection models (Faster R-CNN)
+      * Improvement of explainability of CNN and object detection models
+      * Evaluation of the model's perfomances (Classification, and Class Activation Map Quality)  
 
 
 ## How to Navigate
