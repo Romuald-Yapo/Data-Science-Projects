@@ -37,7 +37,7 @@ Welcome to my Data Science projects portfolio! This repository showcases various
     Tools/Technologies Used: Python, Scikit-learn, Pandas, Numpy, Matplotlib, Jupyter Notebook.  
    
     Key Achievements:  
-      - Dealing with Time Series Data and missing values (Categorical and numerical)
+      - Dealing with Time Series Data and missing values (Categorical and numerical)  
       - Tuning Hyper parameters of a Random Forest Regressor
       - Using differents metrics to evaluate the model (MLSE, RMSE, R^2)
       - Good performance on test data
@@ -48,11 +48,10 @@ Welcome to my Data Science projects portfolio! This repository showcases various
  Tools/Technologies Used: Python, Pytorch, Jupyter Notebook, Bibliograpgical Research.  
    
    Key Achievements:  
-      - Understanding of CNN and the application of the Class Activation Map
-      - Manipulation of recents CNN such that ConvNext Resnet50 and also object detection models (Faster R-CNN)
-      - Improvement of explainability of CNN and object detection models 
+      - Understanding of CNN and the application of the Class Activation Map  
+      - Manipulation of recents CNN such that ConvNext Resnet50 and also object detection models (Faster R-CNN)  
+      - Improvement of explainability of CNN and object detection models  
       - Evaluation of the model's perfomances (Classification, and Class Activation Map Quality)
-  
 
 
 ## How to Navigate
