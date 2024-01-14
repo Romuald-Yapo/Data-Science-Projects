@@ -8,30 +8,8 @@ Welcome to my Data Science projects portfolio! This repository showcases various
 ## Projects
 
 1. Dog Breed Classification
-2. Classification of solutions of a Capacitated Vehicle Routing Problem (Well known problem in Operation Research)  
-   
-   Description: We have developped during an academic project several ML methods in order to classify several solutions and detect which features have a higher impact on the solution.   
-   Tools/Technologies Used: Python, Pandas, Numpy, Matplotlib, Scikit-Learn, Linear regression, KNN, Random Forests Classifier and regressor, Boosting.  
-   
-   Key Achievements:
-      - Data Manipulation and Understanding of millions of solutions
-      - Features engineering in order to reduce the size of the dataset
-      - Application of severals classification and regression methods
-      - Transform a problem of regression in a problem of classification by using some tresholds
-      - Obtention of some features importance
-      - more than 90% of Accuracy using Random forest 
-   
-3. Bulldozers Prices Predictions  
-
-    Description: I have developped a regression Machine Learning model during an Udemy Bootcamp in Data Science that I followed. By fine tuning a Random Forest Regressor, I've reached some good scores on different metrics (MLSE, RMSE, R^2)   
-    Tools/Technologies Used: Python, Scikit-learn, Pandas, Numpy, Matplotlib, Jupyter Notebook.  
-   
-    Key Achievements:  
-      - Dealing with Time Series Data and missing values (Categorical and numerical)  
-      - Tuning Hyper parameters of a Random Forest Regressor
-      - Using differents metrics to evaluate the model (MLSE, RMSE, R^2)
-      - Good performance on test data
-
+2. Classification of solutions of a Capacitated Vehicle Routing Problem (Well known problem in Operation Research)
+3. Bulldozers Prices Predictions
 4- Class Activation Map for explainability and understanding of CNN and object detection models  
 
     Description:   After following several courses on Deep Learning models (MLP, CNN, RNN, LSTM, Generative Models etc), me and my teammate had to realise a project. The project consisted in the implementation of a well known CNN's explainability method : The Class Activation Map. Our objective was first to understand the research paper related to, implement the method using Python code and libraries and find other approachs that haven't been explored.  
