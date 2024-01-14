@@ -10,7 +10,7 @@ Welcome to my Data Science projects portfolio! This repository showcases various
 1. Dog Breed Classification
 2. Classification of solutions of a Capacitated Vehicle Routing Problem (Well known problem in Operation Research)
 3. Bulldozers Prices Predictions
-4- Class Activation Map for explainability and understanding of CNN and object detection models  
+4. Class Activation Map for explainability and understanding of CNN and object detection models  
 
 
 ## How to Navigate
