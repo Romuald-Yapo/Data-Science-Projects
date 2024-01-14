@@ -8,5 +8,5 @@ Key Achievements:
       - Dealing with Time Series Data and missing values (Categorical and numerical)  
       - Tuning Hyper parameters of a Random Forest Regressor  
       - Using differents metrics to evaluate the model (MLSE, RMSE, R^2)  
-      - Good performance on test data  
+      - Good performance on test data  (95%)
 
