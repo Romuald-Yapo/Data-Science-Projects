@@ -4,11 +4,11 @@ Classification of solutions of a Capacitated Vehicle Routing Problem (Well known
    Tools/Technologies Used: Python, Pandas, Numpy, Matplotlib, Scikit-Learn, Linear regression, KNN, Random Forests Classifier and regressor, Boosting.  
    
    Key Achievements:
-      - Data Manipulation and Understanding of millions of solutions
-      - Features engineering in order to reduce the size of the dataset
-      - Application of severals classification and regression methods
-      - Transform a problem of regression in a problem of classification by using some tresholds
-      - Obtention of some features importance
+      - Data Manipulation and Understanding of millions of solutions  
+      - Features engineering in order to reduce the size of the dataset  
+      - Application of severals classification and regression methods  
+      - Transform a problem of regression in a problem of classification by using some tresholds  
+      - Obtention of some features importance  
       - more than 90% of Accuracy using Random forest  
 
 NB : The report is also available in this folder
