@@ -15,9 +15,9 @@ Welcome to my Data Science projects portfolio! This repository showcases various
 
 ## How to Navigate
 
-Each project is organized in its own directory. 
-The jupyter notebook for each project is contained in separate folders.
-Project global description is available within each project folder in the README file.
+Each project is organized in its own directory.   
+The jupyter notebook for each project is contained in separate folders.  
+Project global description is available within each project folder in the `README file`.  
 
 
 
