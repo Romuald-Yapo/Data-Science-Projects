@@ -4,7 +4,7 @@
    Tools/Technologies Used: Tensorflow, Python, Pandas, Numpy, Matplotlib, IPython.display, Google Colab (for the gpu).  
    
    Key Achievements:  
-      - Resize and turn images into tensors
-      - Create data batches to speed up the training process
-      - more than 60% of Accuracy with only 100 epochs by using a pre-trained Keras model
-      - Good performance on testing the model of images took on Internet
+      - Resize and turn images into tensors  
+      - Create data batches to speed up the training process  
+      - more than 60% of Accuracy with only 100 epochs by using a pre-trained Keras model  
+      - Good performance on testing the model of images took on Internet  
