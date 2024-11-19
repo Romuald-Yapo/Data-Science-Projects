@@ -1,4 +1,4 @@
-Bulldozers Prices Predictions  
+## Bulldozers Prices Predictions  
 
 Description: I have developped a regression Machine Learning model during an Udemy Bootcamp in Data Science that I followed. By fine tuning a Random Forest Regressor, I've reached some good scores on different metrics (MLSE, RMSE, R^2)   
 
