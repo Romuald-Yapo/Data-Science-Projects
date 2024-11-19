@@ -7,16 +7,19 @@ Welcome to my Data Science projects portfolio! This repository showcases various
 
 ## Projects
 
-1. Dog Breed Classification
-2. Classification of solutions of a Capacitated Vehicle Routing Problem (Well known problem in Operation Research)
-3. Bulldozers Prices Predictions
-4. Class Activation Map for explainability and understanding of CNN and object detection models  
+1. Efficient Deep Learning Models for Image Classification
+2. Class Activation Map for explainability and understanding of CNN and object detection models
+3. RNN and LSTM Introduction
+4. Classification of solutions of a Capacitated Vehicle Routing Problem
+5.  Dog Breed Classification
+6. Bulldozers Prices Predictions
+   
 
 
 ## How to Navigate
 
 Each project is organized in its own directory.   
-The jupyter notebook for each project is contained in separate folders.  
+The jupyter notebook and python files for each project are contained in separate folders.  
 Project global description is available within each project folder in the `README file`.  
 
 
